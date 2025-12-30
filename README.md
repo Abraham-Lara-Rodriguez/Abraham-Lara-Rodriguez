@@ -3,8 +3,6 @@
 
 - 🌱 Actualmente estoy aprendiendo **Terraform avanzado, buenas prácticas de DevOps.**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/MalfurionStormrage](https://github.com/MalfurionStormrage)
-
 - 💬 Pregúntame sobre **Java, Spring Boot, despliegues en AWS, CI/CD con Docker.**
 
 - 📫 Cómo contactarme **Abrahamopelara@hotmail.com**
