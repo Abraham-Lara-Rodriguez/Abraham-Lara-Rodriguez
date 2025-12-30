@@ -24,10 +24,7 @@ orientados a entornos de producción.
 
 ### 📫 Contacto
 - 📧 Email: **Abrahamopelara@hotmail.com**
-- 💼 LinkedIn:
-<a href="https://www.linkedin.com/in/abraham-lara-rodriguez-826828207" target="_blank">
-  linkedin.com/in/abraham-lara-rodriguez-826828207
-</a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/abraham-lara-rodriguez-826828207" target="_blank">  linkedin.com/in/abraham-lara-rodriguez-826828207 </a>
 
 ---
 
