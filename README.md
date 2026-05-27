@@ -48,8 +48,7 @@ bases de datos relacionales y despliegue de servicios en entornos cloud.
 ## 📫 Contacto
 
 📧 **Email:** Abrahamopelara@hotmail.com  
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/abraham-lara-rodriguez-826828207
+💼 **LinkedIn:** https://www.linkedin.com/in/abraham-lara-rodriguez-826828207
 
 ---
 
