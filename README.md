@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Abraham Lara Rodríguez</h1>
-<h3 align="center">Backend Developer | Java & Spring Boot | .NET Core | REST APIs | SQL | AWS</h3>
+<h3 align="center">Backend Developer | Java & Spring Boot | .NET Core | REST APIs | SQL | AWS EC2</h3>
 
 <p align="center">
 Desarrollador Backend con 3 años de experiencia construyendo e integrando soluciones empresariales.
